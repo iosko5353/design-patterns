@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Observer_HomeWork\Observer_HomeWork\Observer_HomeWork\bin\Debug\Observer_HomeWork.exe.config
+C:\Users\Admin\Desktop\Observer_HomeWork\Observer_HomeWork\Observer_HomeWork\bin\Debug\Observer_HomeWork.exe
+C:\Users\Admin\Desktop\Observer_HomeWork\Observer_HomeWork\Observer_HomeWork\bin\Debug\Observer_HomeWork.pdb
+C:\Users\Admin\Desktop\Observer_HomeWork\Observer_HomeWork\Observer_HomeWork\obj\Debug\Observer_HomeWork.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Observer_HomeWork\Observer_HomeWork\Observer_HomeWork\obj\Debug\Observer_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Observer_HomeWork\Observer_HomeWork\Observer_HomeWork\obj\Debug\Observer_HomeWork.exe
+C:\Users\Admin\Desktop\Observer_HomeWork\Observer_HomeWork\Observer_HomeWork\obj\Debug\Observer_HomeWork.pdb
